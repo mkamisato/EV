@@ -1,0 +1,5 @@
+com\listcities\repository\CitiesRepository.class
+com\listcities\dao\CityDAO.class
+com\listcities\CityApplication.class
+com\listcities\controller\CityController.class
+com\listcities\model\City.class
