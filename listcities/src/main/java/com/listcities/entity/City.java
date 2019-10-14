@@ -3,17 +3,18 @@ package com.listcities.entity;
 import javax.persistence.Table;
 //import javax.xml.bind.annotation.XmlRootElement;
 
-import java.io.Serializable;
+//import java.io.Serializable;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
+//import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Table(name = "CITIES")
 @Entity
 //@XmlRootElement
-public class City implements Serializable {
+//public class City implements Serializable {
+	public class City  {
 	
 	public City() {
 		
@@ -22,12 +23,12 @@ public class City implements Serializable {
 		this.id = id;
 		this.name = name;
 	}
-	@GeneratedValue	
+	
 	@Id
-	@Column(name = "CITY_ID")
+	@Column(name = "ID")
 	private int id;
 	
-	@Column(name = "CITY_NAME")
+	@Column(name = "NAME")
 	private String name;
 	
 

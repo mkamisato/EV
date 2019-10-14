@@ -1,5 +1,7 @@
+C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\service\CityService.java
 C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\CityApplication.java
-C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\dao\CityDAO.java
-C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\repository\CitiesRepository.java
-C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\model\City.java
+C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\converter\Converter.java
 C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\controller\CityController.java
+C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\entity\City.java
+C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\model\MCity.java
+C:\Users\mitus\eclipse-workspace\Eurovsion\listcities\src\main\java\com\listcities\repository\CityRepository.java

@@ -1,5 +1,7 @@
-com\listcities\repository\CitiesRepository.class
-com\listcities\dao\CityDAO.class
+com\listcities\model\MCity.class
+com\listcities\converter\Converter.class
 com\listcities\CityApplication.class
 com\listcities\controller\CityController.class
-com\listcities\model\City.class
+com\listcities\entity\City.class
+com\listcities\service\CityService.class
+com\listcities\repository\CityRepository.class

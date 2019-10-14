@@ -10,7 +10,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import com.listcities.converter.Converter;
-import com.listcities.entity.City;
+//import com.listcities.entity.City;
 import com.listcities.model.MCity;
 import com.listcities.repository.CityRepository;
 
@@ -27,7 +27,7 @@ public class CityService {
 	
 	private static final Log logger=LogFactory.getLog(CityService.class);
 	
-	public boolean create(City city ) {
+	/*public boolean create(City city ) {
 		logger.info("CREATING CITY");
 		try {
 			repository.save(city);
@@ -38,7 +38,7 @@ public class CityService {
 			return false;
 		}
 		
-	}
+	}*/
 	public List<MCity> getCities(){
 		logger.info("LISTING ALL CITIES");
 		
